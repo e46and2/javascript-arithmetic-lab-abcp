@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  return `n + ${parseFloat('1.222')}`
+  return `${parseFloat('n.nnnnnn')}`
 }
