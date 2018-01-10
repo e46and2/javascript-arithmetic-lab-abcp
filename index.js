@@ -14,7 +14,8 @@ function divide(a, b) {
   return a / b
 }
 
-function inc(n) {
-  n++
-  return `n`
+var n = 10
+
+function inc() {
+  return n++
 }
