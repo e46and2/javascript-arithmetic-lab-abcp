@@ -14,7 +14,8 @@ function divide(a, b) {
   return a / b
 }
 
+var n = 335
+
 function inc(n) {
-  var n = 335
   return n++
 }
