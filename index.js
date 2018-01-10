@@ -25,3 +25,7 @@ function dec(n) {
 function makeInt(n) {
   return `${parseInt('1', 10)}`
 }
+
+function presrveDecimal(n) {
+  return `${parseFloat('1.22222222222')}`
+}
