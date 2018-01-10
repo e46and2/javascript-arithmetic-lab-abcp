@@ -16,6 +16,6 @@ function divide(a, b) {
 
 var n = 10
 
-function inc() {
+function inc(n) {
   return n += 3
 }
