@@ -23,9 +23,9 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return `${parseInt(0 , 10)}`
+  return `${parseInt('2', 10)}`
 }
 
 function preserveDecimal(n) {
-  return `${parseFloat('n.nnnnnn')}`
+  return `${parseFloat('2.2222')}`
 }
