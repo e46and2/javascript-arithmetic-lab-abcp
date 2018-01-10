@@ -15,6 +15,6 @@ function divide(a, b) {
 }
 
 
-function inc() {
-  a += 1
+function inc(n) {
+  n = (n += 1)
 }
