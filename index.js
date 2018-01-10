@@ -26,6 +26,6 @@ function makeInt(n) {
   return `${parseInt('1', 10)}`
 }
 
-function presrveDecimal(n) {
+function preserveDecimal(n) {
   return `${parseFloat('1.22222222222')}`
 }
